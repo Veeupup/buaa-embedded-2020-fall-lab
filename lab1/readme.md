@@ -1,5 +1,7 @@
 # sort.s 代码分析
 
+直接看代码
+
 栈中的值
 r7,#4   buffer
 r7      bufferLen
